@@ -33,7 +33,7 @@ For clean syntax, I need to use **global.type**. I'm still wondering how I can f
 
 ## Full syntax
 ```
-npm i js-type-checker -S
+npm i es-type-checker -S
 ```
 ```js
 import TypeChecker from 'es-type-checker';
